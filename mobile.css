@@ -1,0 +1,13 @@
+@charset 'UTF-8';
+
+main#main-box {
+    width: 315px;
+}
+
+img#nft-photo {
+    width: 285px;
+}
+
+hr {
+    width: 315px;
+}
